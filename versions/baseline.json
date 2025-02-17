@@ -181,7 +181,7 @@
       "port-version": 2
     },
     "py-poetry-core": {
-      "baseline": "2.0.1",
+      "baseline": "2.1.1",
       "port-version": 0
     },
     "py-psycopg2": {
